@@ -1,4 +1,4 @@
-# lorenz-system
+# The Lorenz-system
 
 Jupyter Notebook for solving the Lorenz system using an object oriented ODE solver.
 
